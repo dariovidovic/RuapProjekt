@@ -1,7 +1,5 @@
 # RuapProjekt
 
-Code writed by Dario Vidović
-
 Za projekt je bilo potrebno dodatno skinuti HtmlAgilityPack (za čitanje HTML dokumenata) te Microsoft.AspNet.WebApi.Client (za povezivanje s Azure)
 
 Parametri koji se nisu mogli dohvatiti putem C# tražili su se kao unos od korisnika.
